@@ -8,4 +8,4 @@ An example request for get distance and estimate time from origin to destination
 
 Thanks
 
-Google Map
+Google Map, Icon8
